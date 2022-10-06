@@ -8,31 +8,31 @@
                 {
                     "name": "Starry Night",
                     "image": "https://www.moma.org/media/W1siZiIsIjQ2NzUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=314ebf8cc678676f",
-                    "completed": "1889",
+                    "completedIn": "1889",
                     "description": "Van Gogh created this painting after a major mental breakdown and felt depressed and suicidal. The swirls in the sky reflect his emotional turbulence. The scene of this painting depicts the views of Saint-Rémy-de-Provence that Van Gogh saw from his bedroom window"
                 },
                 {
                     "name": "Cafe Terrace at Night",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/816px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
-                    "completed": "1888",
+                    "completedIn": "1888",
                     "description": "Van Gogh set up his easel outdoors and in the evening hours to paint this scene. This was a practice that he picked up from the impressionists in Paris. However, he did not paint the scene as he observed it but rather used color and brushwork to express his emotions. In this painting, Van Gogh portrays excitement and pleasure"
                 },
                 {
                     "name": "Sunflowers",
                     "image": "https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg",
-                    "completed": "1888",
+                    "completedIn": "1888",
                     "description": "Van Gogh wanted to decorate his guest's bedroom (Paul Gauguin) as he was joining Willem in Arles so that they could paint together"
                 },
                 {
                     "name": "The Bedroom",
                     "image": "https://iiif.micr.io/ZKSPH/full/1280,/0/default.jpg",
-                    "completed": "1888",
+                    "completedIn": "1888",
                     "description": "While he was in Arles, Van Gogh made this painting of his bedroom in the Yellow House. He prepared the room himself with simple furniture and with his own work on the wall"
                 },
                 {
                     "name": "Almond Blossom",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/2560px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
-                    "completed": "1890",
+                    "completedIn": "1890",
                     "description": "Large blossom branches against a blue sky. Almond trees flower early in the spring making them a symbol of new life"
                 }
             ]
@@ -45,31 +45,31 @@
                 {
                     "name": "Guernica",
                     "image": "https://static3.museoreinasofia.es/sites/default/files/styles/foto_horizontal_normal/public/obras/DE00050_0.jpg?itok=pGgIuEEd",
-                    "completed": "1937",
+                    "completedIn": "1937",
                     "description": "Picasso said very little about the painting's meaning, leaving interpretation to viewers, critics, and art historians. Although clear as an emotional response to war's senseless violence"
                 },
                 {
                     "name": "The Old Guitarist",
                     "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
-                    "completed": "1904",
+                    "completedIn": "1904",
                     "description": "The painting reﬂects the twenty-two-year-old Picasso's personal struggle and sympathy for the plight of the downtrodden"
                 },
                 {
                     "name": "Les Demoiselles D'Avignon",
                     "image": "https://www.moma.org/media/W1siZiIsIjQzODQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c96b77818fd18af4",
-                    "completed": "1907",
+                    "completedIn": "1907",
                     "description": "It depicts five naked women composed of flat, splintered planes whose faces were inspired by Iberian sculpture and African masks"
                 },
                 {
                     "name": "Gertrude Stein",
                     "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488221/1009264/restricted",
-                    "completed": "1906",
+                    "completedIn": "1906",
                     "description": "An portrait of the famous writer and expatriate Gertrude Stein"
                 },
                 {
                     "name": "Garçon à la Pipe",
                     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Garçon_à_la_pipe.jpg/800px-Garçon_à_la_pipe.jpg",
-                    "completed": "1905",
+                    "completedIn": "1905",
                     "description": "The painting depicts an boy wearing a headpiece of flowers, holding a pipe, with more flowers appearing in the background"
                 }
             ]
@@ -82,31 +82,31 @@
                 {
                     "name": "Mona Lisa",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-                    "completed": "1519",
+                    "completedIn": "1519",
                     "description": "The world's most famous artwork. It depicts an sitter's mysterious gaze and enigmatic smile"
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
@@ -119,31 +119,31 @@
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
@@ -156,31 +156,31 @@
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
@@ -193,31 +193,31 @@
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
@@ -230,31 +230,31 @@
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
@@ -267,31 +267,31 @@
                 {
                     "name": "Woman with Parasol",
                     "image": "https://media.nga.gov/iiif/99758d9d-c10b-4d02-a198-7e49afb1f3a6/full/!588,600/0/default.jpg",
-                    "completed": "1875",
+                    "completedIn": "1875",
                     "description": "In the painting, Mrs Monet's veil is blown by the wind, as is her billowing white dress. Monet's seven-year-old son, is placed further away"
                 },
                 {
                     "name": "La Grenouillère",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/La_Grenouill%C3%A8re_MET_DT833.jpg",
-                    "completed": "1869",
+                    "completedIn": "1869",
                     "description": "La Grenouillère was a popular resort with a spa, boating facilities and a floating café. Young Renoir and Monet went together on a painting trip to La Grenouillère, the two artists set up their easels outdoors and painted en-plein air"
                 },
                 {
                     "name": "Nymphéas",
                     "image": "https://images.prismic.io/barnebys/37d91e82-c30e-4850-b47d-8d22b4924249_Claude+Monet+%281840-1926%29_+Le+Bassin+aux+nymph%C3%A9as%2C+1917-1919%2C+huile+sur+toile%2C+100+x+200+cm.+Photo+%C2%A9+Sotheby%27s.jpg?auto=compress,format",
-                    "completed": "----",
+                    "completedIn": "----",
                     "description": "Monet painted a series of waterlilies, they are scattered all over the world and are recognized as his most famous paintings"
                 },
                 {
                     "name": "The Saint-Lazare Station",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Monet_-_The_Saint-Lazare_Station_-_Google_Art_Project.jpg",
-                    "completed": "1877",
+                    "completedIn": "1877",
                     "description": "Trains were now a new form of public transport. For Monet, this train station represented modern progress and the massive industrialization that was springing up all over the country"
                 },
                 {
                     "name": "Haystack at the End of Summer",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg",
-                    "completed": "1891",
+                    "completedIn": "1891",
                     "description": "In 1890 and 1891, Claude Monet painted another series of twenty-five canvases depicting Haystacks. These paintings capture haystacks after the harvest season from the surrounding farming fields in Giverny"
                 }
             ]
@@ -302,34 +302,34 @@
             "diedIn": "7/18/1610/Italy",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "The Incredulity of Saint Thomas",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Incredulity_of_Saint_Thomas-Caravaggio_%281601-2%29.jpg/1280px-The_Incredulity_of_Saint_Thomas-Caravaggio_%281601-2%29.jpg",
+                    "completedIn": "1602",
+                    "description": "One of the apostles, Thomas doubted the resurrection of Christ, saying he would not believe it until he could place his finger where the nails had pierced his crucified body"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "The Beheading of Saint John the Baptist",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
+                    "completedIn": "1608",
+                    "description": "The oil depicts the execution of John the Baptist and is the only work that Caravaggio ever signed. His signature, located in the blood that spills from John’s throat, was discovered during restoration of the work"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "The Calling of Saint Matthew",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/1200px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg",
+                    "completedIn": "1600",
+                    "description": "The painting shows the very moment in which Jesus inspired Matthew to follow him. Standing alongside Saint Peter, Jesus points at Matthew, who is sitting at a table with four other men"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "David with the Head of Goliath",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Narcissus-Caravaggio_%281594-96%29_edited.jpg/1200px-Narcissus-Caravaggio_%281594-96%29_edited.jpg",
+                    "completedIn": "1610",
+                    "description": "David is depicted not celebrating his victory over the giant, but rather lost in thought, perhaps pondering his curious biblical connection and bond with his adversary"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "Narcissus",
+                    "image": "http://totallyhistory.com/wp-content/uploads/2012/09/Michelangelo_Caravaggio.jpg",
+                    "completedIn": "1599",
+                    "description": "Caravaggio painted an adolescent page wearing an elegant brocade doublet, leaning with both hands over the water, as he gazes at this own distorted reflection. The figure of Narcissus is locked in a circle with his reflection, surrounded by darkness, so that the only reality is inside this self-regarding loop"
                 }
             ]
         },
@@ -341,31 +341,31 @@
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 },
                 {
                     "name": "",
                     "image": "",
-                    "completed": "",
+                    "completedIn": "",
                     "description": ""
                 }
             ]
