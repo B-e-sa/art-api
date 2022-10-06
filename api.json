@@ -235,34 +235,34 @@
             "diedIn": "10/4/1669/Netherlands",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Night Watch",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rembrandt_van_Rijn-De_Nachtwacht-1642.jpg/2449px-Rembrandt_van_Rijn-De_Nachtwacht-1642.jpg",
+                    "completedIn": "1642",
+                    "description": "The Night Watch is a group portrait of the militia company of Captain Frans Banning Cocq and Lieutenant Willem van Ruytenburgh (in the center)"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/2560px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+                    "completedIn": "1632",
+                    "description": "The painting depicts the Dutch surgeon and the later mayor of Amsterdam Dr. Nicolaes Tulp holding an anatomy lesson on the corpse of the executed criminal Aris Kindt"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Self-Portrait with Two Circles",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1200px-Rembrandt_Self-portrait_%28Kenwood%29.jpg",
+                    "completedIn": "1669",
+                    "description": "Rembrandt's self-portraits shows the artist at work. He is depicted holding his palette, brushes, and maulstick with two enigmatic circles in the background"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Storm on the Sea of Galilee",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+                    "completedIn": "1633",
+                    "description": "The painting, in vertical format, shows a close-up view of Christ's disciples struggling frantically against the heavy storm to regain control of their fishing boat"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Danaë",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg",
+                    "completedIn": "1636",
+                    "description": "It depicts Danaë, the mother of the ancient Greek mythological hero Perseus. The life-sized depiction of Danaë is thought to show her welcoming Zeus who came to her in the form of golden rain"
                 }
             ]
         },
