@@ -1,571 +1,371 @@
 {
     "1": {
         "fullName": "Vincent Willem van Gogh",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "2": {
         "fullName": "Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso",
-        "wasBorn": "",
-        "diedIn": "",
+        "wasBornIn": "10/25/1881/Spain",
+        "diedIn": "4/8/1973/France",
         "artWorks": {
             "1": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "name": "Guernica",
+                "image": "https://static3.museoreinasofia.es/sites/default/files/styles/foto_horizontal_normal/public/obras/DE00050_0.jpg?itok=pGgIuEEd",
+                "completed": "1937",
+                "description": "Picasso said very little about the painting's meaning, leaving interpretation to viewers, critics, and art historians. Although clear as an emotional response to war's senseless violence"
             },
             "2": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "name": "The Old Guitarist",
+                "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
+                "completed": "1904",
+                "description": "The painting reﬂects the twenty-two-year-old Picasso's personal struggle and sympathy for the plight of the downtrodden"
             },
             "3": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "name": "Les Demoiselles D'Avignon",
+                "image": "https://www.moma.org/media/W1siZiIsIjQzODQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c96b77818fd18af4",
+                "completed": "1907",
+                "description": "It depicts five naked women composed of flat, splintered planes whose faces were inspired by Iberian sculpture and African masks"
             },
             "4": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "name": "Gertrude Stein",
+                "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488221/1009264/restricted",
+                "completed": "1906",
+                "description": "An portrait of the famous writer and expatriate Gertrude Stein."
             },
             "5": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "name": "Garçon à la Pipe",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Garçon_à_la_pipe.jpg/800px-Garçon_à_la_pipe.jpg",
+                "completed": "1905",
+                "description": "The painting depicts an boy wearing a headpiece of flowers, holding a pipe, with more flowers appearing in the background."
             }
         }
     },
     "3": {
         "fullName": "Leonardo di Ser Piero da Vinci",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "4": {
         "fullName": "Salvador Domingo Felipe Jacinto Dalí i Domènech",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "5": {
         "fullName": "Edvard Daniel Jon Hans Einar Erling Munch",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "6": {
         "fullName": "Johannes Vermeer",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "7": {
         "fullName": "Michelangelo di Lodovico Buonarroti Simoni",
-        "wasBorn": "",
+        "wasBornIn": "",
         "diedIn": "",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "8": {
         "fullName": "Oscar-Claude Monet",
-        "wasBorn": "11/14/1840",
+        "wasBornIn": "11/14/1840",
         "diedIn": "12/5/1926",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "9": {
         "fullName": "Oscar-Claude Monet",
-        "wasBorn": "11/14/1840",
+        "wasBornIn": "11/14/1840",
         "diedIn": "12/5/1926",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     },
     "10": {
         "fullName": "Oscar-Claude Monet",
-        "wasBorn": "11/14/1840",
+        "wasBornIn": "11/14/1840",
         "diedIn": "12/5/1926",
         "artWorks": {
             "1": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "2": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "3": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "4": {
                 "name": "",
                 "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             },
             "5": {
                 "name": "",
                 "image": "",
-                "completed": ""
-            },
-            "6": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "7": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "8": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "9": {
-                "name": "",
-                "image": "",
-                "completed": ""
-            },
-            "10": {
-                "name": "",
-                "image": "",
-                "completed": ""
+                "completed": "",
+                "description": ""
             }
         }
     }
