@@ -76,14 +76,14 @@
         },
         {
             "fullName": "Leonardo di Ser Piero da Vinci",
-            "wasBornIn": "",
-            "diedIn": "",
+            "wasBornIn": "4/15/1452/Italy",
+            "diedIn": "5/2/1519/France",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "Mona Lisa",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+                    "completed": "1519",
+                    "description": "The world's most famous artwork. It depicts an sitter's mysterious gaze and enigmatic smile"
                 },
                 {
                     "name": "",
@@ -261,38 +261,38 @@
         },
         {
             "fullName": "Oscar-Claude Monet",
-            "wasBornIn": "11/14/1840",
-            "diedIn": "12/5/1926",
+            "wasBornIn": "11/14/1840/France",
+            "diedIn": "12/5/1926/France",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "Woman with Parasol",
+                    "image": "https://media.nga.gov/iiif/99758d9d-c10b-4d02-a198-7e49afb1f3a6/full/!588,600/0/default.jpg",
+                    "completed": "1875",
+                    "description": "In the painting, Mrs Monet's veil is blown by the wind, as is her billowing white dress. Monet's seven-year-old son, is placed further away"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "La Grenouillère",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/La_Grenouill%C3%A8re_MET_DT833.jpg",
+                    "completed": "1869",
+                    "description": "La Grenouillère was a popular resort with a spa, boating facilities and a floating café. Young Renoir and Monet went together on a painting trip to La Grenouillère, the two artists set up their easels outdoors and painted en-plein air"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "Nymphéas",
+                    "image": "https://images.prismic.io/barnebys/37d91e82-c30e-4850-b47d-8d22b4924249_Claude+Monet+%281840-1926%29_+Le+Bassin+aux+nymph%C3%A9as%2C+1917-1919%2C+huile+sur+toile%2C+100+x+200+cm.+Photo+%C2%A9+Sotheby%27s.jpg?auto=compress,format",
+                    "completed": "----",
+                    "description": "Monet painted a series of waterlilies, they are scattered all over the world and are recognized as his most famous paintings"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "The Saint-Lazare Station",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Monet_-_The_Saint-Lazare_Station_-_Google_Art_Project.jpg",
+                    "completed": "1877",
+                    "description": "Trains were now a new form of public transport. For Monet, this train station represented modern progress and the massive industrialization that was springing up all over the country"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completed": "",
-                    "description": ""
+                    "name": "Haystack at the End of Summer",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg",
+                    "completed": "1891",
+                    "description": "In 1890 and 1891, Claude Monet painted another series of twenty-five canvases depicting Haystacks. These paintings capture haystacks after the harvest season from the surrounding farming fields in Giverny"
                 }
             ]
         },
