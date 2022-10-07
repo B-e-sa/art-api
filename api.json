@@ -197,34 +197,34 @@
             "diedIn": "",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Girl with a Pearl Earring",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/865px-1665_Girl_with_a_Pearl_Earring.jpg",
+                    "completedIn": "1665",
+                    "description": "It depicts a European girl wearing an exotic dress, an oriental turban, and what appears to be a very large pearl as an earring"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Astronomer",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg/1803px-Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+                    "completedIn": "1668",
+                    "description": "The astronomer in question is looking at a globe of the heavens, but a number of objects in the room point to Vermeer's focus on religion as well"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Milkmaid",
+                    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/milkmaid-1660-johannes-vermeer.jpg",
+                    "completedIn": "1661",
+                    "description": "The painting shows a milkmaid, a woman who milks cows and makes dairy products like butter and cheese, in a plain room carefully pouring milk into a squat earthenware container on a table"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Love Letter",
+                    "image": "https://www.everypainterpaintshimself.com/article_images_new/The_Love_Letter.c1669-70.oilcan.Rijksmuseum_copy.jpg",
+                    "completedIn": "1670",
+                    "description": "The Love Letter (Dutch: De liefdesbrief) is a 17th-century genre painting by Jan Vermeer. The painting shows a servant maid commenting to her mistress on a letter the woman holds"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "View of Delft",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vermeer-view-of-delft.jpg/1200px-Vermeer-view-of-delft.jpg",
+                    "completedIn": "1663",
+                    "description": "The landscape was painted from an elevated position to the southeast of Delft, possibly the upper floor of a house on the quayside across the river Schie"
                 }
             ]
         },
@@ -314,7 +314,7 @@
                     "name": "The Incredulity of Saint Thomas",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Incredulity_of_Saint_Thomas-Caravaggio_%281601-2%29.jpg/1280px-The_Incredulity_of_Saint_Thomas-Caravaggio_%281601-2%29.jpg",
                     "completedIn": "1602",
-                    "description": "One of the apostles, Thomas doubted the resurrection of Christ, saying he would not believe it until he could place his finger where the nails had pierced his crucified body"
+                    "description": "One of the apostles of Christ, Thomas doubted his ressurection, saying he would not believe it until he could place his finger where the nails had pierced his crucified body"
                 },
                 {
                     "name": "The Beheading of Saint John the Baptist",
