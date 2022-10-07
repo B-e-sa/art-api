@@ -77,40 +77,40 @@
             ]
         },
         {
-            "nickName": "da Vinci",
-            "fullName": "Leonardo di Ser Piero da Vinci",
-            "wasBornIn": "4/15/1452/Italy",
-            "diedIn": "5/2/1519/France",
+            "nickName": "Gustave Dore",
+            "fullName": "Paul-Gustave Doré",
+            "wasBornIn": "1/6/1832/France",
+            "diedIn": "1/23/1883/France",
             "artWorks": [
                 {
-                    "name": "Mona Lisa",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-                    "completedIn": "1519",
-                    "description": "The world's most famous artwork. It depicts an sitter's mysterious gaze and enigmatic smile"
+                    "name": "La Siesta",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gustave_Dore_-_La_Siesta%2C_Memory_of_Spain_-_Google_Art_Project.jpg/1200px-Gustave_Dore_-_La_Siesta%2C_Memory_of_Spain_-_Google_Art_Project.jpg",
+                    "completedIn": "1868",
+                    "description": null
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Enigma",
+                    "image": "https://i.pinimg.com/originals/22/3a/05/223a05e867dc521bc250a8a4d2f897d0.jpg",
+                    "completedIn": "1871",
+                    "description": "The Enigma features a scene of carnage, as a city burns and bodies are strewn right across the composition. This artwork followed on soon after France's defeat to Prussia a year earlier"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Dante and Virgil in the Ninth Circle of Hell",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gustave_Dor%C3%A9_-_Dante_et_Virgile_dans_le_neuvi%C3%A8me_cercle_de_l%27Enfer.jpg",
+                    "completedIn": "1861",
+                    "description": "In Dante's 'Inferno,' Dante himself is led through the nine circles of hell by the ancient poet Virgil, finally arriving at the ninth circle where those who hate the idea of love reside, including Satan himself. Since love brings warmth and comfort. They claw and bite at one another and writhe in pain"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Oceanides",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Les_Oceanides_Les_Naiades_de_la_mer.jpg",
+                    "completedIn": "1869",
+                    "description": "Based on the ancient Greek tragedy Prometheus Bound, the painting depicts a group of nymphs at a rock in the ocean. In the background, the Titan Prometheus is chained to a cliff, a punishment given to him by Zeus after he stole fire from the gods and gave it to mankind"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Alpine Scene",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gustave_Dor%C3%A9_-_Alpine_Scene_-_1967.588_-_Art_Institute_of_Chicago.jpg/1200px-Gustave_Dor%C3%A9_-_Alpine_Scene_-_1967.588_-_Art_Institute_of_Chicago.jpg",
+                    "completedIn": "1865",
+                    "description": null
                 }
             ]
         },
@@ -186,7 +186,7 @@
                     "name": "Death in the Sickroom",
                     "image": "1893",
                     "completedIn": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg/1200px-Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg",
-                    "description": "Death in the Sickroom from 1893 goes back to the memory of sister Sophie’s death. She died of tuberculosis in 1877. The motif is one of a number of Munch's portrayals of sickness, death and sorrow in the family"
+                    "description": "Death in the Sickroom from 1893 goes back to the memory of sister Sophie's death. She died of tuberculosis in 1877. The motif is one of a number of Munch's portrayals of sickness, death and sorrow in the family"
                 }
             ]
         },
@@ -320,7 +320,7 @@
                     "name": "The Beheading of Saint John the Baptist",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
                     "completedIn": "1608",
-                    "description": "The oil depicts the execution of John the Baptist and is the only work that Caravaggio ever signed. His signature, located in the blood that spills from John’s throat, was discovered during restoration of the work"
+                    "description": "The oil depicts the execution of John the Baptist and is the only work that Caravaggio ever signed. His signature, located in the blood that spills from John's throat, was discovered during restoration of the work"
                 },
                 {
                     "name": "The Calling of Saint Matthew",
