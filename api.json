@@ -343,40 +343,40 @@
             ]
         },
         {
-            "nickName": "",
+            "nickName": "Peter Paul Rubens",
             "fullName": "Peter Paul Rubens",
             "wasBornIn": "6/28/1577/Germany",
             "diedIn": "5/30/1640/Belgium",
             "artWorks": [
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Massacre of the Innocents",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg/1200px-Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg",
+                    "completedIn": "1610",
+                    "description": "Depicts the biblical tale of Roman soldiers executing male newborns in Bethlehem on the orders of King Herod"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "Prometheus Bound",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rubens_-_Prometheus_Bound.jpg/1200px-Rubens_-_Prometheus_Bound.jpg",
+                    "completedIn": "With hooked beak, a monstrous vulture digs about in the liver of Prometheus, who is given no peace from his torments as ever and again the savage bird draws near his self-renewing breast and attacks it punishingly",
+                    "description": "1612"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Descent from the Cross",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Descent_from_the_Cross_%28Rubens%29_July_2015-1a.jpg",
+                    "completedIn": "1612",
+                    "description": "Depicts Christ's lifeless body being taken down from the cross by a group of people, among them the Virgin Mary, John the Apostle cloaked in red and Mary Magdalene, described by the cathedral as “a paragon of Baroque art”"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Judgement of Paris",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Peter_Paul_Rubens_-_The_Judgment_of_Paris_-_WGA20307.jpg/2560px-Peter_Paul_Rubens_-_The_Judgment_of_Paris_-_WGA20307.jpg",
+                    "completedIn": "1636",
+                    "description": "Depicts the mythic Roman tale of the same name in which Paris was forced to judge the most beautiful of three goddesses — Venus, Minerva and Juno — in events that ignited the Trojan War"
                 },
                 {
-                    "name": "",
-                    "image": "",
-                    "completedIn": "",
-                    "description": ""
+                    "name": "The Hippopotamus and Crocodile Hunt",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_Paul_Rubens_083.jpg",
+                    "completedIn": "1616",
+                    "description": "Commissioned by Maximilian I, Elector of Bavaria to adorn his summer residence, the Schleissheim Palace — is just one of these hunting pieces and today resides at Munich's Alte Pinokothek."
                 }
             ]
         }
