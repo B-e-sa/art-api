@@ -5,38 +5,38 @@
                 {
                     "nickName": "Van Gogh",
                     "fullName": "Vincent Willem van Gogh",
-                    "wasBornIn": "3/30/1853/Netherlands",
-                    "diedIn": "7/29/1890/France",
-                    "movement": "Post-Impressionism",
+                    "wasBornIn": "3/30/1853/Países Baixos",
+                    "diedIn": "7/29/1890/França",
+                    "movement": "Pós-impressionismo",
                     "portrait": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
-                    "description": "Vincent Willem van Gogh was a Dutch Post-Impressionist artist who emerged as one of the most famous figures in the history of Western art after his death. Van Gogh's landscapes, still lifes, portraits, and self-portraits are characterized by vibrant contrasts of complementary colors, expressive brushwork, and abstract, linear planes inspired by the Japanese prints he collected and admired. His innovations contributed to the foundations of modern art. Van Gogh's images often reflect personal symbolism, experiences, and emotions he discussed in correspondence with family and friends. He expressed a desire to communicate joy and comfort through his art and aspired to gather a community of like-minded artists in southern France. Van Gogh did not achieve commercial success in his lifetime and relied on financial support from his brother, Theo van Gogh. His life was shaped by severe depression and episodes of acute psychological distress. Van Gogh committed suicide at the age of 37",
+                    "description": "Vincent Willem van Gogh foi um artista pós-impressionista holandês que emergiu como uma das mais famosas figuras na historia da arte ocidental após sua morte. As paisagens, artes mortas, retratos e auto-retratos são caracterizados por vibrantes contrastes de cores complementares, pincelas exprecivas e planos lineares abstratos, inspirados pelas impressões japonêsas que ele adquiria e admirava. Suas inovações contribuiram para a fundação da arte moderna. As imagens de Van Gogh geralmente refletem simbolismo pessoas, experiêncais e emoções que ele discutiu em correspondência a sua família e amigos. Ele expressou o desejo de comunicar felicidade e conforto por meio de sua arte, inspirado a reunir uma comunidade de artistas com o mesmo pensamento no sul da França. Van Gogh nunca conseguiu sucesso comercial em seu tempo de vida e dependia do suporte financeiro do seu irmão, Theo Van Gogh. Sua vida foi formada por uma depressão severa e episódios de estresse psicológico agudo. Vincent cometeu suicídio aos 37 anos",
                     "artWorks": [
                         {
-                            "name": "Starry Night",
+                            "name": "Noite Estrelada",
                             "image": "https://www.moma.org/media/W1siZiIsIjQ2NzUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=314ebf8cc678676f",
                             "completedIn": "1889",
-                            "description": "Van Gogh created this painting after a major mental breakdown and felt depressed and suicidal. The swirls in the sky reflect his emotional turbulence. The scene of this painting depicts the views of Saint-Rémy-de-Provence that Van Gogh saw from his bedroom window"
+                            "description": "Van Gogh criou esta pintura depois de um grande surto mental, onde se sentiu triste e suicida. As ondas no céu refletem sua turbulência emocional. O cenário da pintura retrata a visão de Saint-Rémy-de-Provence, que Van Gogh viu da janela de seu quarto"
                         },
                         {
-                            "name": "Cafe Terrace at Night",
+                            "name": "Terraço do Café à Noite",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/816px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
                             "completedIn": "1888",
-                            "description": "Van Gogh set up his easel outdoors and in the evening hours to paint this scene. This was a practice that he picked up from the impressionists in Paris. However, he did not paint the scene as he observed it but rather used color and brushwork to express his emotions. In this painting, Van Gogh portrays excitement and pleasure"
+                            "description": "Van Gogh posicionou seu cavalete ao ar livre, a tarde, para pintar o cenário. Isso foi uma prática que ele adquiriu dos impressionistas em Paris. De todo modo, ele não pintou a cena como observou, mas sim, usou cor e técnicas de pinceladas para retratar suas emoções. Nessa pintura, Van Gogh apresenta entusiasmo e alegria"
                         },
                         {
-                            "name": "Sunflowers",
+                            "name": "Girassóis",
                             "image": "https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg",
                             "completedIn": "1888",
-                            "description": "Van Gogh wanted to decorate his guest's bedroom (Paul Gauguin) as he was joining Willem in Arles so that they could paint together"
+                            "description": "Van Gogh queria decorar o quarto de seu visitante, Paul Gauguin, como ele estava se juntando a Willem em Arles, para que eles pudessem pintar juntos"
                         },
                         {
-                            "name": "The Bedroom",
+                            "name": "Quarto em Arles",
                             "image": "https://iiif.micr.io/ZKSPH/full/1280,/0/default.jpg",
                             "completedIn": "1888",
                             "description": "While he was in Arles, Van Gogh made this painting of his bedroom in the Yellow House. He prepared the room himself with simple furniture and with his own work on the wall"
                         },
                         {
-                            "name": "Almond Blossom",
+                            "name": "Amendoeira em Flor",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/2560px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
                             "completedIn": "1890",
                             "description": "Large blossom branches against a blue sky. Almond trees flower early in the spring making them a symbol of new life"
