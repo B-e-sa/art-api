@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const PORT = 3000
 
-const art = require('./art.json')
+const art = require('./art')
 
 app.get('/art', (req, res) => {
     res.json(art)
