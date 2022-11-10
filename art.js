@@ -1,4 +1,4 @@
-{
+module.exports = [{
     "language": {
         "pt": {
             "artists": [
@@ -829,4 +829,4 @@
             ]
         }
     }
-}
+}]
