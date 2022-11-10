@@ -9,7 +9,7 @@ app.get('/art', (req, res) => {
 })
 
 app.get('/', (req, res) => {
-    res.send('Api is running. Go to /post to see response')
+    res.send('Api is running. Go to /art to see response')
 })
 
 app.listen(process.env.PORT || 5000, () => console.log('Server is running.'))
