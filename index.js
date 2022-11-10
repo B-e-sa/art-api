@@ -12,4 +12,4 @@ app.get('/', (req, res) => {
     res.send('Api is running. Go to /post to see response')
 })
 
-app.listen(PORT || 5000, () => console.log('Server is running.'))
+app.listen(process.env.PORT || 5000, () => console.log('Server is running.'))
