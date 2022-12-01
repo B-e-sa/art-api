@@ -49,3 +49,7 @@
 ### Info about artists gatered from:
 
 - britannica.com
+
+## Todo
+
+ - Update PT language 
