@@ -46,20 +46,20 @@ module.exports = [{
                 {
                     "nickName": "Picasso",
                     "fullName": "Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso",
-                    "wasBornIn": "10/25/1881/Spain",
-                    "diedIn": "4/8/1973/France",
-                    "movement": "Cubism",
+                    "wasBornIn": "10/25/1881/Espanha",
+                    "diedIn": "4/8/1973/França",
+                    "movement": "Cubismo",
                     "portrait": "https://static.wixstatic.com/media/a36bfa_14e610c98eb84f0692b7ab61656178c2~mv2_d_3036_4048_s_4_2.jpg/v1/fill/w_3036,h_4048,al_c,q_85/a36bfa_14e610c98eb84f0692b7ab61656178c2~mv2_d_3036_4048_s_4_2.jpg",
-                    "description": "One of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Picasso's work is often categorized into periods. While the names of many of his later periods are debated, the most commonly accepted periods in his work are the Blue Period, the Rose Period, the African-influenced Period, Analytic Cubism, and Synthetic Cubism, also referred to as the Crystal period",
+                    "description": "Um dos mais influentes artistas do século 20, ele é conhecido por ser o co-fundador do movimento cubista, o invetor da arte cinética, o co-inventor da colagem e por uma grande variedade de estilos que ele ajudou a desenvolver e explorar. O trabalho de picasso é frequentemente categorizado em períodos. Enquanto o nome de vários de seus períodos posteriores ainda são debatidos, os períodos mais comumente aceitos em seu trabalho são o Período Azul, Período Rosé, Período de Afro-Influencia, Cubismo Analítico e o Cubismo Sintético, também chamado de Período de Cristal",
                     "artWorks": [
                         {
                             "name": "Guernica",
                             "image": "https://static3.museoreinasofia.es/sites/default/files/styles/foto_horizontal_normal/public/obras/DE00050_0.jpg?itok=pGgIuEEd",
                             "completedIn": "1937",
-                            "description": "Picasso said very little about the painting's meaning, leaving interpretation to viewers, critics, and art historians. Although clear as an emotional response to war's senseless violence"
+                            "description": "Picasso disse pouco sobre o significado da pintura, deixando a interpretação para apreciadores, criticos e historiadores da arte. Embora seja claramente uma resposta emocional a violência sem sentido da guerra, principalmente a Guerra Civil Espanhola."
                         },
                         {
-                            "name": "The Old Guitarist",
+                            "name": "Vieux guitariste aveugle",
                             "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
                             "completedIn": "1904",
                             "description": "The painting reﬂects the twenty-two-year-old Picasso's personal struggle and sympathy for the plight of the downtrodden"
