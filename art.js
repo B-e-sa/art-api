@@ -33,7 +33,7 @@ module.exports = [{
                             "name": "Quarto em Arles",
                             "image": "https://iiif.micr.io/ZKSPH/full/1280,/0/default.jpg",
                             "completedIn": "1888",
-                            "description": "While he was in Arles, Van Gogh made this painting of his bedroom in the Yellow House. He prepared the room himself with simple furniture and with his own work on the wall"
+                            "description": "Enquanto em Arles, Van Gogh fez esta pentura de seu quarto na casa amarela. Ele preparou o quarto com móveis simples e com seus próprios trabalhos na parede"
                         },
                         {
                             "name": "Amendoeira em Flor",
