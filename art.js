@@ -39,7 +39,7 @@ module.exports = [{
                             "name": "Amendoeira em Flor",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/2560px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
                             "completedIn": "1890",
-                            "description": "Large blossom branches against a blue sky. Almond trees flower early in the spring making them a symbol of new life"
+                            "description": "Grandes galhos de desabroxam sob o céu azul. Flores de amendoeira aparecem na primavera,  tornando-as simbolo de uma nova vida"
                         }
                     ]
                 },
