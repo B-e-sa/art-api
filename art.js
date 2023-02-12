@@ -62,7 +62,7 @@ module.exports = [{
                             "name": "Vieux guitariste aveugle",
                             "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
                             "completedIn": "1904",
-                            "description": "The painting reﬂects the twenty-two-year-old Picasso's personal struggle and sympathy for the plight of the downtrodden"
+                            "description": "A pintura reflete a luta pessoal e a simpatia de Picasso, de 22 anos, pela situação dos oprimidos."
                         },
                         {
                             "name": "Les Demoiselles D'Avignon",
