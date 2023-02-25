@@ -2,6 +2,8 @@
 
 ### An api with artists and their respective artworks/biography
 
+The api is deployed at AWS, you can access it at: https://rvsf2cpalfk7ntjy2cpgjzkfdu0vkhyp.lambda-url.us-east-2.on.aws
+
 ### Disponible Languages:
 
 - Portuguese
