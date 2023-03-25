@@ -55,3 +55,4 @@ The api is deployed at AWS, you can access it at: https://rvsf2cpalfk7ntjy2cpgjz
 ## Todo
 
  - Update PT language 
+ - Redo with a database
