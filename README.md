@@ -2,6 +2,14 @@
 
 ### An api with artists and their respective artworks/biography
 
+## !!!!
+I didn't add any other routes for this API, it's just a single json object with a bunch of info.<br>
+If I have more time available, I will update little by little and add some queries.
+
+There is a java version, with some queries available: https://github.com/B-e-sa/rest-art-api
+
+### Access
+
 The api is deployed at AWS, you can access it at: https://rvsf2cpalfk7ntjy2cpgjzkfdu0vkhyp.lambda-url.us-east-2.on.aws
 
 ### Disponible Languages:
